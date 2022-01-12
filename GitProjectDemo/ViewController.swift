@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("Before First Commit")
         print("This is after Second Commit")
+        print("Commit from second branch")
     }
 }
 
