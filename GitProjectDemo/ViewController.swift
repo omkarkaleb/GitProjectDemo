@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         print("Before First Commit")
         print("This is after Second Commit")
         print("Commit from second branch")
+        print("Commit from second branch")
     }
 }
 
