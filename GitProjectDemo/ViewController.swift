@@ -14,7 +14,5 @@ class ViewController: UIViewController {
         print("Before First Commit")
         print("This is after Second Commit")
     }
-
-
 }
 
